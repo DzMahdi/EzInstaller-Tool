@@ -32,10 +32,11 @@ Simply run the `EzInstaller Tool.exe`, and the GUI will appear. Select the desir
 
 ## Disclaimer
 
-Copyright © 2023 Mahdi Aggoun. All rights reserved.
+Copyright © 2023 AmkakMarketing. All rights reserved.
 
 This software is provided "as is" without any warranties. The user assumes all responsibility for any damages or losses that may occur as a result of using this tool. Unauthorized reproduction or distribution of this software may result in legal consequences.
 
 For permissions or inquiries, please contact the copyright holder.
 
+https://www.amkakmarketing.com/
 ---
