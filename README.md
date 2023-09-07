@@ -38,6 +38,3 @@ This software is provided "as is" without any warranties. The user assumes all r
 
 For permissions or inquiries, please contact the copyright holder: https://www.amkakmarketing.com/
 ---
-
-ERROR: Cannot remove item C:\Users\MicroageLocal\AppData\Local\Temp\teams_installer.exe: Access to the path 'C:\Users\MICROA~1\AppData\Local\Temp\teams_installer.exe' is denied.
-Failed to create Microsoft Teams shortcut on the desktop.
