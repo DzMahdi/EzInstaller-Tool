@@ -14,6 +14,7 @@ EzInstaller Tool is a PowerShell-based utility designed to simplify the installa
   - FortiClient VPN
   - 7-Zip
   - Notepad++
+  - Firefox
 
 ## How It Works
 
